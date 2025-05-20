@@ -2,7 +2,7 @@ from cryptography.fernet import Fernet
 import json
 import os
 
-# Generate a key if not exists
+
 KEY_FILE = "key.key"
 PASSWORD_FILE = "passwords.json"
 
